@@ -144,4 +144,4 @@ void * myrealloc(void *, size_t);
 /* Terminal functions */
 void setup_tty(void);
 
-#endif __LIBOTOSIS_H__
+#endif /* __LIBOTOSIS_H__ */
